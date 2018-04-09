@@ -23,6 +23,6 @@ In eclipse, you can go to `Projects -> Properties -> Java Build Path` and add an
 
 There will be a sample class with how to use the methods found in the wrapper
 
-[Here is an example project I made using this wrapper.](https://gitlab.com/nithjino/MAL-Show-Randomizer)
+[Here is an example project I made using this wrapper.](https://github.com/nithjino/MAL-Show-Randomizer)
 
 ![alt text](http://i.imgur.com/mwHrHWm.png)
